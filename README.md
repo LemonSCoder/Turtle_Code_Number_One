@@ -17,9 +17,9 @@ cd Turtle_Code_Number_One
 ```
 *Compiling the Program*
 ```
-gcc 313.py -o 313
+gcc Turtle_Code.py -o Turtle_Code
 ```
 *Running the Program*
 ```
-./313
+./Turtle_Code
 ```
