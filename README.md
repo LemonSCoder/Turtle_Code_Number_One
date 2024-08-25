@@ -9,11 +9,11 @@
 
 *Cloning the Repository*
 ```
-git clone https://github.com/Aero-ComSci/3-1-3-LemonSCoder.git
+git clone https://github.com/LemonSCoder/Turtle_Code_Number_One.git
 ```
 *Changing the Project Directory*
 ```
-cd 3-1-3-LemonSCoder
+cd Turtle_Code_Number_One
 ```
 *Compiling the Program*
 ```
